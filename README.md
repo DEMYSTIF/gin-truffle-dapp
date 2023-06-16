@@ -62,16 +62,16 @@ Start the application
 go run .
 ```
 
-Or create an executable
+For live reload, install Air
 
 ```bash
-go build -o build/
+go install github.com/cosmtrek/air@latest
 ```
 
-Run the executable
+Run the application with Air
 
 ```bash
-./build/gin-truffle-dapp
+air
 ```
 
 ## 📜 License
