@@ -76,7 +76,7 @@ air
 
 ## 📜 License
 
-Click [here](./LICENSE.txt).
+Click [here](./LICENSE.md).
 
 ## 🎗️ Contributing
 
